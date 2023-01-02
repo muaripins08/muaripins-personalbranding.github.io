@@ -161,7 +161,7 @@ header .navbar ul li a:hover{
 }
 
 .home h1{
-    font-size:5rem;
+    font-size: 5rem;
     color:#fff;
 }
 
@@ -173,6 +173,7 @@ header .navbar ul li a:hover{
     font-size:2rem;
     color:#eee;
     padding: 1rem 0;
+    text-align: justify;
 }
 
 .about .row{
@@ -368,6 +369,14 @@ header .navbar ul li a:hover{
     bottom: 7.5rem; right: 2rem;
     z-index: 100;
     display: none;
+}
+
+.text-white {
+    color: #fff;
+}
+
+.italic {
+    font-style: italic;
 }
 
 /* media queries  */
